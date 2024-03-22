@@ -1,0 +1,28 @@
+2024/03/21 23:40:22 [notice] 5200#13308: signal process started
+2024/03/21 23:50:18 [notice] 7340#13732: signal process started
+2024/03/21 23:53:20 [notice] 13600#18992: signal process started
+2024/03/21 23:53:20 [error] 13600#18992: invalid PID number "" in "C:\nginx-1.24.0/logs/nginx.pid"
+2024/03/21 23:57:05 [notice] 23504#15100: signal process started
+2024/03/21 23:57:17 [notice] 19228#18680: signal process started
+2024/03/22 00:28:15 [notice] 15288#18440: signal process started
+2024/03/22 00:31:28 [error] 9668#12236: *1 CreateFile() "C:/nginx-1.24.0/www/taramanji/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: taramanji.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/03/22 00:38:42 [notice] 5108#10128: signal process started
+2024/03/22 00:51:53 [notice] 3168#9520: signal process started
+2024/03/22 00:51:53 [error] 3168#9520: OpenEvent("Global\ngx_reload_15120") failed (2: The system cannot find the file specified)
+2024/03/22 00:56:06 [notice] 10100#7960: signal process started
+2024/03/22 00:56:22 [crit] 11408#13836: *1 GetFileAttributesEx() "C:
+ginx-1.24.0\www	aramanji" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: taramanji.com, request: "GET / HTTP/1.1", host: "localhost"
+2024/03/22 00:56:22 [crit] 11408#13836: *1 CreateFile() "C:
+ginx-1.24.0\www\error/50x.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: taramanji.com, request: "GET / HTTP/1.1", host: "localhost"
+2024/03/22 00:57:55 [notice] 8220#2700: signal process started
+2024/03/22 01:01:08 [notice] 11216#8204: signal process started
+2024/03/22 01:01:51 [notice] 2680#16624: signal process started
+2024/03/22 01:02:29 [notice] 16840#2652: signal process started
+2024/03/22 01:07:37 [emerg] 3232#1792: unknown log format "main" in C:\nginx-1.24.0/conf/nginx.conf:41
+2024/03/22 01:07:52 [notice] 17236#1680: signal process started
+2024/03/22 09:24:00 [notice] 19448#12000: signal process started
+2024/03/22 09:24:02 [notice] 11568#10308: signal process started
+2024/03/22 09:24:55 [notice] 5244#22320: signal process started
+2024/03/22 09:27:05 [notice] 22520#3152: signal process started
+2024/03/22 09:29:12 [notice] 4268#18972: signal process started
+2024/03/22 10:59:03 [notice] 10544#13464: signal process started
